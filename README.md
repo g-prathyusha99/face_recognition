@@ -1,7 +1,7 @@
 # Face Recognition
 
 Recognize and manipulate faces from Python or from the command line with
-the world's simplest face recognition library.
+the world's simplest face recognition library!
 
 Built using [dlib](http://dlib.net/)'s state-of-the-art face recognition
 built with deep learning. The model has an accuracy of 99.38% on the
@@ -15,7 +15,7 @@ you do face recognition on a folder of images from the command line!
 [![Build Status](https://travis-ci.org/ageitgey/face_recognition.svg?branch=master)](https://travis-ci.org/ageitgey/face_recognition)
 [![Documentation Status](https://readthedocs.org/projects/face-recognition/badge/?version=latest)](http://face-recognition.readthedocs.io/en/latest/?badge=latest)
 
-## Features
+## Features are-->
 
 #### Find faces in pictures
 
